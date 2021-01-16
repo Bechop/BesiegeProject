@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 729ce16ed8fe32b4e97c3cc36e944708, type: 3}
+  m_Name: CrateData
+  m_EditorClassIdentifier: 
+  id: 0
+  title: Crate
+  description: La caisse en bois CPP
+  icon: {fileID: 21300000, guid: 00600b7f08388ef4dab779cde0333c29, type: 3}
+  model: {fileID: 8912475874346582440, guid: b500e7477c8b91b4ba3992d0c89e8bc4, type: 3}
+  layerMask:
+    serializedVersion: 2
+    m_Bits: 768
+  actionRange: 5
+  isFreePlacing: 0
+  spaceFromGround: 1
